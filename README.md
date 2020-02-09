@@ -1,4 +1,4 @@
-# Weather_API
+<p align="center"> **Weather API** </p>
 ![hi](weather.png)
 a python program that takes the name of the city as input and returns the temperature as output
 type: q --> to quite the program
